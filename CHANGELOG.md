@@ -1,3 +1,17 @@
+# [3.1.0](https://github.com/SamuelSSalazar/node-saml/compare/v3.0.0...v3.1.0) (2026-02-10)
+
+
+### Bug Fixes
+
+* update async and moment dependencies to fix reported CVEs ([663a73e](https://github.com/SamuelSSalazar/node-saml/commit/663a73ef4f933c5b264ab0ba3b69fd35039eab64))
+
+
+### Features
+
+* add semantic-release automation ([#1](https://github.com/SamuelSSalazar/node-saml/issues/1)) ([fe5a916](https://github.com/SamuelSSalazar/node-saml/commit/fe5a91659ec09f5de80923834406acdbd9aac5c0))
+
+
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
