@@ -15,7 +15,7 @@
     "should": "~1.2.1"
   },
   "main": "./lib",
-  "repository": "https://github.com/auth0/node-saml",
+  "repository": "https://github.com/SamuelSSalazar/node-saml",
   "keywords": [
     "saml",
     "authentication"
